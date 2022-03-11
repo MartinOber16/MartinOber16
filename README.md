@@ -42,3 +42,6 @@
 <br />
 
 - <img align="left" alt="Terminal" style="padding:2px" width="32px" src="https://mo-cryptos.netlify.app/static/media/logo.f8f267546764b108cfe9.png" /> [**Coin Market App**](https://mo-cryptos.netlify.app/): It is a simple web application to view and search for cryptocurrency quotes. It is developed in Reactjs with Hooks. It uses CoinGecko APIs to query cryptocurrency information. A Services Worker was implemented to make this web application a PWA.
+
+<br />
+<br />
