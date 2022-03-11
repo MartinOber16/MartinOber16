@@ -8,10 +8,10 @@
 
 ## About me
 - I am a Full Stack Developer.
-- I am a System graduate at Morón University.
+- I am a System Graduate at Morón University.
 - I currently live in Buenos Aires, Argentina.
 - I work as a developer at BCRA.
-- My preferred language is Javascript.
+- My preferred language is JavaScript.
 
 <br />
 
