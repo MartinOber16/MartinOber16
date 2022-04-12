@@ -28,7 +28,7 @@
 <img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="32px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="32px" src="./img/terminal-dark.svg" />
-<img align="left" alt="Terminal" width="32px" src="./img/terminal-light.svg" />
+<!-- <img align="left" alt="Terminal" width="32px" src="./img/terminal-light.svg" /> -->
 
 <br />
 <br /> 
@@ -40,7 +40,11 @@
 
 <br />
 
-- <img align="left" alt="Terminal" style="padding:2px" width="32px" src="https://mo-cryptos.netlify.app/static/media/logo.f8f267546764b108cfe9.png" /> [**Coin Market App**](https://mo-cryptos.netlify.app/): It is a simple web application to view and search for cryptocurrency quotes. It is developed in Reactjs with Hooks. It uses CoinGecko APIs to query cryptocurrency information. A Services Worker was implemented to make this web application a PWA.
+- <img align="left" alt="Terminal" style="padding:2px" width="32px" src="https://mo-cryptos.netlify.app/static/media/logo.a34e2bbb945a0db8ac82.png" /> [**Coin Market App**](https://mo-cryptos.netlify.app/): It is a simple web application to view and search for cryptocurrency quotes. It is developed in Reactjs with Hooks. It uses CoinGecko APIs to query cryptocurrency information. A Services Worker was implemented to make this web application a PWA.
+
+<br />
+
+- <img align="left" alt="weatherapp" style="padding:2px" width="32px" src="https://mo-tasks.netlify.app/tareas-icono.png" /> [**Tasks App**](https://mo-tasks.netlify.app/): It is a task web application developed with Reactjs with Hooks, Redux and Context API. It has user authentication both by email and Google account. For the backend a REST API server has been implemented in Nodejs with Express and a database in MongoDB. Cloudinary API is used to store users' profile pictures. Workbox was also implemented to make this web application a PWA.  
 
 <br />
 <br />
