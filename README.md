@@ -7,8 +7,8 @@
 <br />
 
 ## About me
-- I am a Full Stack Developer.
-- I am a System Graduate at Morón University.
+- I am a Full Stack developer.
+- I have a degree in Systems from the University of Morón.
 - I currently live in Buenos Aires, Argentina.
 - I work as a developer at BCRA.
 - My preferred language is JavaScript.
