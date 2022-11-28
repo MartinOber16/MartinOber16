@@ -7,36 +7,41 @@
 <br />
 
 ## About me
-- I am a Full Stack developer.
+
+- I'm a Full Stack Developer.
 - I have a degree in Systems from the University of Morón.
-- I currently live in Buenos Aires, Argentina.
-- I work as a developer at BCRA.
+- I'm currently living in Buenos Aires, Argentina.
+- I'm working as a Software Engineer at Santander Tecnologia.
 - My preferred language is JavaScript.
 
 <br />
 
 ## Languages and Tools
-<img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+
 <img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Bootstrap" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Bootstrap" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="32px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="32px" src="./img/terminal-dark.svg" />
+<img align="left" alt="Web3" width="32px" src="./img/web-3-icon.svg" />
 <!-- <img align="left" alt="Terminal" width="32px" src="./img/terminal-light.svg" /> -->
 
 <br />
 <br /> 
-<br /> 
+<br />
 
 ## My Personal Projects
+
 <!-- - [**Blockchain Electronic Voting**](https://bevdapp1.surge.sh/): description... -->
-- <img align="left" alt="weatherapp" style="padding:2px" width="32px" src="https://mo-clima.netlify.app/weather-icon.png" /> [**Weather App**](https://mo-clima.netlify.app/): It is a weather web application developed with Reactjs with Hooks and Redux. It has user authentication both by email and Google account. For the backend, we implemented a REST API server in Nodejs with Express and a database in MongoDB. The Mapbox and OpenWeatherMap APIs are used to consult the information, and Cloudinary to store the users' profile photos. Workbox was also implemented to make this web application a PWA.  
+
+- <img align="left" alt="weatherapp" style="padding:2px" width="32px" src="https://mo-clima.netlify.app/weather-icon.png" /> [**Weather App**](https://mo-clima.netlify.app/): It is a weather web application developed with Reactjs with Hooks and Redux. It has user authentication both by email and Google account. For the backend, we implemented a REST API server in Nodejs with Express and a database in MongoDB. The Mapbox and OpenWeatherMap APIs are used to consult the information, and Cloudinary to store the users' profile photos. Workbox was also implemented to make this web application a PWA.
 
 <br />
 
@@ -44,7 +49,11 @@
 
 <br />
 
-- <img align="left" alt="weatherapp" style="padding:2px" width="32px" src="https://mo-tasks.netlify.app/tareas-icono.png" /> [**Tasks App**](https://mo-tasks.netlify.app/): It is a task web application developed with Reactjs with Hooks, Redux and Context API. It has user authentication both by email and Google account. For the backend a REST API server has been implemented in Nodejs with Express and a database in MongoDB. Cloudinary API is used to store users' profile pictures. Workbox was also implemented to make this web application a PWA.  
+- <img align="left" alt="weatherapp" style="padding:2px" width="32px" src="https://mo-tasks.netlify.app/tareas-icono.png" /> [**Tasks App**](https://mo-tasks.netlify.app/): It is a task web application developed with Reactjs with Hooks, Redux and Context API. It has user authentication both by email and Google account. For the backend a REST API server has been implemented in Nodejs with Express and a database in MongoDB. Cloudinary API is used to store users' profile pictures. Workbox was also implemented to make this web application a PWA.
+
+<br />
+
+- <img align="left" alt="weatherapp" style="padding:2px" width="32px" src="https://mo-finanzas-app.netlify.app/favicon.png" /> [**Tasks App**](https://mo-finanzas-app.netlify.app): It is a finance web application developed with Reactjs with Hooks, Redux and Context API. It has user authentication both by email and Google account. For the backend a REST API server has been implemented in Nodejs with Express and a database in MongoDB. The Cloudinary API is used to store users' profile pictures. Workbox has also been implemented to make this web application a PWA.
 
 <br />
 <br />
