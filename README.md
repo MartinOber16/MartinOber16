@@ -31,6 +31,7 @@
 <img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="32px" src="./img/terminal-dark.svg" />
 <img align="left" alt="Web3" width="32px" src="./img/web-3-icon.svg" />
+<img align="left" alt="Web3" width="32px" src="./img/MetaMask_Fox.svg" />
 <!-- <img align="left" alt="Terminal" width="32px" src="./img/terminal-light.svg" /> -->
 
 <br />
