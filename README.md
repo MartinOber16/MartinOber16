@@ -42,11 +42,11 @@
 
 <!-- - [**Blockchain Electronic Voting**](https://bevdapp1.surge.sh/): description... -->
 
-- <img align="left" alt="weatherapp" style="padding:2px" width="32px" src="https://mo-clima.netlify.app/weather-icon.png" /> [**Weather App**](https://mo-clima.netlify.app/): It is a weather web application developed with Reactjs with Hooks and Redux. It has user authentication both by email and Google account. For the backend, we implemented a REST API server in Nodejs with Express and a database in MongoDB. The Mapbox and OpenWeatherMap APIs are used to consult the information, and Cloudinary to store the users' profile photos. Workbox was also implemented to make this web application a PWA.
+- <img align="left" alt="weatherapp" style="padding:2px" width="32px" src="https://mo-clima.netlify.app/weather-icon.png" /> [**Weather App**](https://mo-clima.netlify.app/?target=_blank): It is a weather web application developed with Reactjs with Hooks and Redux. It has user authentication both by email and Google account. For the backend, we implemented a REST API server in Nodejs with Express and a database in MongoDB. The Mapbox and OpenWeatherMap APIs are used to consult the information, and Cloudinary to store the users' profile photos. Workbox was also implemented to make this web application a PWA.
 
 <br />
 
-- <img align="left" alt="cryptoapp" style="padding:2px" width="32px" src="https://mo-cryptos.netlify.app/static/media/logo.a34e2bbb945a0db8ac82.png" /> [**Coin Market App**](https://mo-cryptos.netlify.app/): It is a simple web application to view and search for cryptocurrency quotes. It is developed in Reactjs with Hooks. It uses CoinGecko APIs to query cryptocurrency information. A Services Worker was implemented to make this web application a PWA.
+- <img align="left" alt="cryptoapp" style="padding:2px" width="32px" src="https://mo-cryptos.netlify.app/static/media/logo.a34e2bbb945a0db8ac82.png" /> [**Coin Market App**](https://mo-cryptos.netlify.app/?target=_blank): It is a simple web application to view and search for cryptocurrency quotes. It is developed in Reactjs with Hooks. It uses CoinGecko APIs to query cryptocurrency information. A Services Worker was implemented to make this web application a PWA.
 
 <br />
 
@@ -54,7 +54,7 @@
 
 <br /> -->
 
-- <img align="left" alt="finazasapp" style="padding:2px" width="32px" src="https://mo-finanzas-app.netlify.app/favicon.png" /> [**Finazas App**](https://mo-finanzas-app.netlify.app): It is a finance web application developed with Reactjs with Hooks, Redux and Context API. It has user authentication both by email and Google account. For the backend a REST API server has been implemented in Nodejs with Express and a database in MongoDB. The Cloudinary API is used to store users' profile pictures. Workbox has also been implemented to make this web application a PWA.
+- <img align="left" alt="finazasapp" style="padding:2px" width="32px" src="https://mo-finanzas-app.netlify.app/favicon.png" /> [**Finazas App**](https://mo-finanzas-app.netlify.app/?target=_blank): It is a finance web application developed with Reactjs with Hooks, Redux and Context API. It has user authentication both by email and Google account. For the backend a REST API server has been implemented in Nodejs with Express and a database in MongoDB. The Cloudinary API is used to store users' profile pictures. Workbox has also been implemented to make this web application a PWA.
 
 <br />
 <br />
