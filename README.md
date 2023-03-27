@@ -8,15 +8,17 @@
 
 ## About me
 
-- I'm a Full Stack Developer.
-- I have a degree in Systems from the University of Morón.
-- I'm currently living in Buenos Aires, Argentina.
-- I'm working as a Software Engineer at Santander Tecnologia.
-- My preferred language is JavaScript.
+<br />
+
+- I am a Full Stack Developer, mainly in JavaScript frameworks (React JS, Next JS and Node JS).
+- I have a degree in Systems from the University of Morón and I live in Buenos Aires, Argentina.
+- I currently work as a Software Engineer at Santander Tecnología.
 
 <br />
 
 ## Languages and Tools
+
+<br />
 
 <img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -35,14 +37,14 @@
 <!-- <img align="left" alt="Terminal" width="32px" src="./img/terminal-light.svg" /> -->
 
 <br />
-<br /> 
+<br />
 <br />
 
 ## My Personal Projects
 
-<!-- - [**Blockchain Electronic Voting**](https://bevdapp1.surge.sh/): description... -->
+<br />
 
-- <img align="left" alt="weatherapp" style="padding:2px" width="32px" src="https://mo-clima.netlify.app/weather-icon.png" /> [**Weather App**](https://mo-clima.netlify.app/): It is a weather web application developed with Reactjs with Hooks and Redux. It has user authentication both by email and Google account. For the backend, we implemented a REST API server in Nodejs with Express and a database in MongoDB. The Mapbox and OpenWeatherMap APIs are used to consult the information, and Cloudinary to store the users' profile photos. Workbox was also implemented to make this web application a PWA.
+- <img align="left" alt="weatherapp" style="padding:2px" width="32px" src="https://mo-clima.netlify.app/weather-icon.png" /> [**Weather App**](https://mo-clima.netlify.app/): It is a weather web application developed with Reactjs with Hooks and Redux. It has user authentication both by email and Google account. For the backend, we implemented a REST API server in Nodejs with Express and a database in MongoDB. The Mapbox and OpenWeatherMap APIs are used to consult the information, and Cloudinary to store the users' profile photos. Workbox was also implemented to make this web application a PWA. User test: user1@mail.com - abc123.
 
 <br />
 
@@ -50,11 +52,6 @@
 
 <br />
 
-<!-- - <img align="left" alt="tasksapp" style="padding:2px" width="32px" src="https://mo-tasks.netlify.app/tareas-icono.png" /> [**Tasks App**](https://mo-tasks.netlify.app/): It is a task web application developed with Reactjs with Hooks, Redux and Context API. It has user authentication both by email and Google account. For the backend a REST API server has been implemented in Nodejs with Express and a database in MongoDB. Cloudinary API is used to store users' profile pictures. Workbox was also implemented to make this web application a PWA.
+- <img align="left" alt="marketplaceapp" style="padding:2px" width="32px" src="./img/nft.png" /> [**Market Place NFT App**](https://mo-market-place.netlify.app/): It is a simple web application to publish and buy NFTs on the Binance test network "BNB Smart Chain Testnet" (for the moment). It is developed in React with Hooks and Bootstrap for the frontend and with Solidity and HardHat for the Smart Contract and backend. This application is under development and little by little I will be adding things and improving it.
 
-<br /> -->
-
-- <img align="left" alt="finazasapp" style="padding:2px" width="32px" src="https://mo-finanzas-app.netlify.app/favicon.png" /> [**Finazas App**](https://mo-finanzas-app.netlify.app/): It is a finance web application developed with Reactjs with Hooks, Redux and Context API. It has user authentication both by email and Google account. For the backend a REST API server has been implemented in Nodejs with Express and a database in MongoDB. The Cloudinary API is used to store users' profile pictures. Workbox has also been implemented to make this web application a PWA.
-
-<br />
 <br />
