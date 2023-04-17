@@ -10,7 +10,7 @@
 
 <br />
 
-- I am a Full Stack Developer, mainly in JavaScript frameworks (React JS, Next JS and Node JS).
+- I am a Full Stack Developer, mainly in JavaScript frameworks (React JS and Node JS).
 - I have a degree in Systems from the University of Morón and I live in Buenos Aires, Argentina.
 - I currently work as a Software Engineer at Santander Tecnología.
 
@@ -48,10 +48,10 @@
 
 <br />
 
-- <img align="left" alt="cryptoapp" style="padding:2px" width="32px" src="https://mo-cryptos.netlify.app/static/media/logo.a34e2bbb945a0db8ac82.png" /> [**Coin Market App**](https://mo-cryptos.netlify.app/): It is a simple web application to view and search for cryptocurrency quotes. It is developed in Reactjs with Hooks. It uses CoinGecko APIs to query cryptocurrency information. A Services Worker was implemented to make this web application a PWA.
+- <img align="left" alt="cryptoapp" style="padding:3px" width="32px" src="https://mo-cryptos.netlify.app/static/media/logo.a34e2bbb945a0db8ac82.png" /> [**Coin Market App**](https://mo-cryptos.netlify.app/): It is a simple web application to view and search for cryptocurrency quotes. It is developed in Reactjs with Hooks. It uses CoinGecko APIs to query cryptocurrency information. A Services Worker was implemented to make this web application a PWA.
 
 <br />
 
-- <img align="left" alt="marketplaceapp" style="padding:2px" width="32px" src="./img/nft.png" /> [**Market Place NFT App**](https://mo-market-place.netlify.app/): It is a simple web application to publish and buy NFTs on the Binance test network "BNB Smart Chain Testnet" (for the moment). It is developed in React with Hooks and Bootstrap for the frontend and with Solidity and HardHat for the Smart Contract and backend. This application is under development and little by little I will be adding things and improving it.
+- <img align="left" alt="marketplaceapp" style="padding:0px" width="42px" src="./img/nft.png" /> [**Market Place NFT App**](https://mo-market-place.netlify.app/): It is a simple web application to publish and buy NFTs on the Binance test network "BNB Smart Chain Testnet" and Polygon test network "Mumbai". It is developed in React with Hooks, Bootstrap and React-Query for the frontend. For the backend, a Smart Contract with Solidity was implemented using HardHat. This application is under testing and little by little I will be adding things and improving it.
 
 <br />
