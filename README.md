@@ -17,7 +17,7 @@
 <br />
 
 ## Languages and Tools
-  
+
 <img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
@@ -50,6 +50,6 @@
 
 <br />
 
-- <img align="left" alt="marketplaceapp" style="padding:0px" width="42px" src="./img/nft.png" /> [**Market Place NFT App**](https://mo-market-place.netlify.app/): It is a simple web application to publish and buy NFTs on the Binance test network "BNB Smart Chain Testnet" and Polygon test network "Mumbai". It is developed in React with Hooks, Bootstrap and React-Query for the frontend. For the backend, a Smart Contract with Solidity was implemented using HardHat. This application is under testing and little by little I will be adding things and improving it.
+- <img align="left" alt="marketplaceapp" style="padding:2px" width="36px" src="./img/nft.png" /> [**Market Place NFT App**](https://mo-market-place.netlify.app/): It is a simple web application to publish and buy NFTs on the Binance test network "BNB Smart Chain Testnet" and Polygon test network "Mumbai". It is developed in React with Hooks, Bootstrap and React-Query for the frontend. For the backend, a Smart Contract with Solidity was implemented using HardHat. This application is under testing and little by little I will be adding things and improving it.
 
 <br />
