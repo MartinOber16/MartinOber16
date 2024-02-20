@@ -1,7 +1,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Perfil de Desarrollador</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 
@@ -69,7 +68,7 @@ I am proficient in server-side application development using Node.js, Express an
 
 - <img align="left" alt="marketplaceapp" style="" width="42px" src="./img/nft.png" /> [**Market Place NFT App**](https://mo-market-place.netlify.app/): It is a simple web application to publish and buy NFTs on the Binance test network "BNB Smart Chain Testnet" and Polygon test network "Mumbai". It is developed in React with Hooks, Bootstrap and React-Query for the frontend. For the backend, a Smart Contract with Solidity was implemented using HardHat. This application is under testing and little by little I will be adding things and improving it.
 
-## Contacto
+## Contact
 
 If you are interested in my profile or want to know more about my work, feel free to contact me!
 
