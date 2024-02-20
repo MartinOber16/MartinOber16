@@ -10,11 +10,11 @@
 
 ## About me
 
-Hi! I'm Martin, a passionate Full Stack developer with a main focus on JavaScript frameworks, especially React JS and Node JS. I graduated as a Systems Graduate from the University of Morón and I live in Buenos Aires, Argentina.
+Hi, I'm Martín, a Software Engineer and Full Stack developer with main focus on JavaScript frameworks, specially React JS and Node JS. I graduated as a Systems Engineer at the University of Morón and I live in Buenos Aires, Argentina.
 
-Currently, I have the privilege of working as a Software Engineer at Santander Tecnología, where I have the opportunity to apply my skills and knowledge in the development of innovative and scalable solutions. My passion for technology drives me to constantly look for new ways to improve and optimize the products and services I develop.
+Currently, I have the privilege of working as a Software Engineer at Santander Tecnología, where I have the opportunity to apply my skills and knowledge in the development of solutions and processes in the Normativos area. My passion for technology drives me to constantly look for new ways to improve and optimize the processes and services I work on.
 
-I am passionate about working in collaborative teams and facing challenges that allow me to grow both professionally and personally. In addition, I am committed to continuous learning and exploring new technologies that allow me to stay on top of the latest trends in the world of software development.
+I am passionate about working in collaborative teams and facing challenges that allow me to grow both professionally and personally. In addition, I am committed to continuous learning and exploring new technologies that allow me to stay abreast of the latest trends in the world of software development.
 
 ## Experience and tools
 
