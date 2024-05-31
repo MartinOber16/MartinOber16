@@ -12,66 +12,68 @@
 
 Hi, I'm Martín, a Software Engineer and Full Stack developer with main focus on JavaScript frameworks, specially React JS and Node JS. I graduated as a Systems Engineer at the University of Morón and I live in Buenos Aires, Argentina.
 
-Currently, I have the privilege of working as a Software Engineer at Santander Tecnología, where I have the opportunity to apply my skills and knowledge in the development of solutions and processes in the Normativos area. My passion for technology drives me to constantly look for new ways to improve and optimize the processes and services I work on.
+I'm passionate about working in collaborative teams and facing challenges that allow me to grow both professionally and personally. In addition, I am committed to continuous learning and exploring new technologies that allow me to stay abreast of the latest trends in the world of software development.
 
-I am passionate about working in collaborative teams and facing challenges that allow me to grow both professionally and personally. In addition, I am committed to continuous learning and exploring new technologies that allow me to stay abreast of the latest trends in the world of software development.
-
-## Experience and tools
+## Experience
 
 I have experience in web application development using JavaScript on both client and server side.
 I have worked on projects using React to create interactive and scalable user interfaces.
 I am proficient in server-side application development using Node.js, Express and other related technologies.
 
-- HTML5 <img align="center" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+## Programming Languages
 
-- CSS3 <img align="center" alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<p>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0078D6?logo=typescript&logoColor=white"></a>
+</p>
 
-- JavaScript <img align="center" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+## Frameworks and Libraries
 
-- Bootstrap <img align="center" alt="Bootstrap" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<p>
+   	<a href="#"><img alt="ReactJS" src="https://img.shields.io/badge/React%20JS-0078D6?logo=react&logoColor=white"></a>
+    <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node%20JS-%2311AB00.svg?logo=nodejs&logoColor=white"></a>
+   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
+   	<a href="#"><img alt="MaterialUI" src="https://img.shields.io/badge/Material UI-0078D6?logo=mui&logoColor=white"></a>
+   <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwind css-%2338B2AC.svg?logo=tailwindcss&logoColor=white"></a>
+</p>
 
-- Material UI <img align="center" alt="Material UI" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+## Operating Systems
 
-- React JS <img align="center" alt="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<p>
+	<a href="#"><img alt="Apple" src="https://img.shields.io/badge/Mac%20OS-000000?logo=apple&logoColor=white"></a>
+	<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-557C94?logo=linux&logoColor=white"></a>
+	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
+	
+</p>
 
-- Node JS <img align="center" alt="Node.js" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+## Databases and Cloud hosting
 
-- Mongo DB <img align="center" alt="MongoDB" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<p>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%23327FC7.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-%23430098.svg?logo=oracle&logoColor=white"></a>
+    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2311AB00.svg?logo=mongodb&logoColor=white"></a>
+</p>
 
-- MySQL <img align="center" alt="MySQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+## Software and Tools
 
-- Git <img align="center" alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-- GitHub <img align="center" alt="GitHub" width="32px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
-
-- VS Code <img align="center" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-
-- Terminal <img align="center" alt="Terminal" width="32px" src="./img/terminal-dark.svg" />
-
-- Blockchain & Web3 <img align="center" alt="Web3" width="32px" src="./img/web-3-icon.svg" />
-
-- MetaMask <img align="center" alt="MetaMask" width="32px" src="./img/MetaMask_Fox.svg" />
-
-<!-- <img align="left" alt="Terminal" width="32px" src="./img/terminal-light.svg" /> -->
+<p>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+   <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Git Hub%20-000000.svg?logo=github&logoColor=white"></a>
+	<a href="#"><img alt="Notepad" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2B%2B&logoColor=black"></a>
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  <a href="#"><img alt="Terminal" src="https://img.shields.io/badge/Terminal-90E59A?logo=powershell&logoColor=black&color=green&labelColor=green"></a>
 
 ## My Personal Projects
 
-<br />
+<img align="center" alt="CryptoMarketApp" style="margin:5px" width="42px" src="https://mo-cryptos.netlify.app/static/media/logo.a34e2bbb945a0db8ac82.png" /> [**Crypto Market App**](https://mo-crypto-market-app.netlify.app/)
 
-<!-- - <img align="left" alt="weatherapp" style="padding:2px" width="32px" src="https://mo-clima.netlify.app/weather-icon.png" /> [**Weather App**](https://mo-clima.netlify.app/): It is a weather web application developed with Reactjs with Hooks and Redux. It has user authentication both by email and Google account. For the backend, we implemented a REST API server in Nodejs with Express and a database in MongoDB. The Mapbox and OpenWeatherMap APIs are used to consult the information, and Cloudinary to store the users' profile photos. Workbox was also implemented to make this web application a PWA.
+<p style="margin:2px">It is a simple web application to view and search for cryptocurrency prices. It is developed in Reactjs with Bootstrap. It uses CoinGecko APIs to query cryptocurrency information. A Services Worker was implemented to make this web application a PWA.
+</p>
 
-<br /> -->
+## Connect with Me
 
-- <img align="left" alt="cryptoapp" style="padding:3px" width="32px" src="https://mo-cryptos.netlify.app/static/media/logo.a34e2bbb945a0db8ac82.png" /> [**Coin Market App**](https://mo-cryptos.netlify.app/): It is a simple web application to view and search for cryptocurrency quotes. It is developed in Reactjs with Hooks. It uses CoinGecko APIs to query cryptocurrency information. A Services Worker was implemented to make this web application a PWA.
-
-<!-- <br />
-
-- <img align="left" alt="marketplaceapp" style="" width="42px" src="./img/nft.png" /> [**Market Place NFT App**](https://mo-market-place.netlify.app/): It is a simple web application to publish and buy NFTs on the Binance test network "BNB Smart Chain Testnet" and Polygon test network "Mumbai". It is developed in React with Hooks, Bootstrap and React-Query for the frontend. For the backend, a Smart Contract with Solidity was implemented using HardHat. This application is under testing and little by little I will be adding things and improving it. -->
-
-## Contact
-
-If you are interested in my profile or want to know more about my work, feel free to contact me!
-
-<div align=center>
-    <a href="https://www.linkedin.com/in/martinobermeier87"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/martinobermeier87"><img alt="Linkedin" title="Martin Obermeier Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
