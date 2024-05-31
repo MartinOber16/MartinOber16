@@ -8,6 +8,10 @@
 
 <h3 align="center"><i>Software Engineer - Full Stack Developer JS</i></h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/martinobermeier87"><img alt="Linkedin" title="Martin Obermeier Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
 ## About me
 
 Hi, I'm Martín, a Software Engineer and Full Stack developer with main focus on JavaScript frameworks, specially React JS and Node JS. I graduated as a Systems Engineer at the University of Morón and I live in Buenos Aires, Argentina.
@@ -69,11 +73,5 @@ I am proficient in server-side application development using Node.js, Express an
 
 <img align="center" alt="CryptoMarketApp" style="margin:5px" width="42px" src="https://mo-cryptos.netlify.app/static/media/logo.a34e2bbb945a0db8ac82.png" /> [**Crypto Market App**](https://mo-crypto-market-app.netlify.app/)
 
-<p style="margin:2px">It is a simple web application to view and search for cryptocurrency prices. It is developed in Reactjs with Bootstrap. It uses CoinGecko APIs to query cryptocurrency information. A Services Worker was implemented to make this web application a PWA.
-</p>
-
-## Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/martinobermeier87"><img alt="Linkedin" title="Martin Obermeier Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<p style="margin:2px">It is a simple web application to view and search for cryptocurrency prices. It is developed in Reactjs with Bootstrap. It uses CoinGecko APIs to query cryptocurrency information.
 </p>
