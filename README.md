@@ -16,13 +16,13 @@
 
 Hi, I'm Martín, a Software Engineer and Full Stack developer with main focus on JavaScript frameworks, specially React JS and Node JS. I graduated as a Systems Engineer at the University of Morón and I live in Buenos Aires, Argentina.
 
-I'm passionate about working in collaborative teams and facing challenges that allow me to grow both professionally and personally. In addition, I am committed to continuous learning and exploring new technologies that allow me to stay abreast of the latest trends in the world of software development.
+I'm passionate about working in collaborative teams and facing challenges that allow me to grow both professionally and personally. In addition, I'm committed to continuous learning and exploring new technologies that allow me to stay abreast of the latest trends in the world of software development.
 
 ## Experience
 
 I have experience in web application development using JavaScript on both client and server side.
 I have worked on projects using React to create interactive and scalable user interfaces.
-I am proficient in server-side application development using Node.js, Express and other related technologies.
+I'm proficient in server-side application development using Node.js, Express and other related technologies.
 
 ## Programming Languages
 
@@ -73,5 +73,5 @@ I am proficient in server-side application development using Node.js, Express an
 
 <img align="center" alt="CryptoMarketApp" style="margin:5px" width="42px" src="https://mo-cryptos.netlify.app/static/media/logo.a34e2bbb945a0db8ac82.png" /> [**Crypto Market App**](https://mo-crypto-market-app.netlify.app/)
 
-<p style="margin:2px">It is a simple web application to view and search for cryptocurrency prices. It is developed in Reactjs with Bootstrap. It uses CoinGecko APIs to query cryptocurrency information.
+<p style="margin:2px">It's a simple web application to view and search for cryptocurrency prices, developed in Reactjs with Bootstrap. It uses CoinGecko APIs to query cryptocurrency information.
 </p>
