@@ -71,34 +71,13 @@ Me motiva resolver problemas reales, colaborar en equipos ágiles y construir so
 
 ---
 
-## Proyectos destacados
+## Proyecto destacado
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Crypto Market App</h3>
-      <p>Aplicación web en React para consultar precios de criptomonedas usando la API de CoinGecko. Incluye búsqueda, filtros y diseño responsive.</p>
-      <p><a href="https://mo-crypto-market-app.netlify.app/">🌐 Ver sitio</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Weather App</h3>
-      <p>Aplicación del clima desarrollada en TypeScript. Consulta condiciones meteorológicas en tiempo real con interfaz moderna.</p>
-      <p><a href="https://github.com/MartinOber16/opencode-weather-app">📂 Repositorio</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Next.js Jira Clone</h3>
-      <p>Aplicación Full Stack inspirada en Jira, desarrollada con Next.js, TypeScript y bases de datos para gestión de tareas.</p>
-      <p><a href="https://github.com/MartinOber16/next-open-jira">📂 Repositorio</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>React Query Issues</h3>
-      <p>Aplicación que integra React Query para gestión de datos asíncronos, consumiendo la API de GitHub para explorar issues.</p>
-      <p><a href="https://github.com/MartinOber16/react-query-issues">📂 Repositorio</a></p>
-    </td>
-  </tr>
-</table>
+<h3>Crypto Market App 🪙</h3>
+
+Aplicación web en React para consultar precios de criptomonedas usando la API de CoinGecko. Incluye búsqueda, filtros y diseño responsive.
+
+[🌐 Ver sitio](https://mo-crypto-market-app.netlify.app/)
 
 ---
 
