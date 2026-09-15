@@ -60,17 +60,6 @@ Me motiva resolver problemas reales, colaborar en equipos ágiles y construir so
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MartinOber16&show_icons=true&theme=tokyonight&bg_color=1a1b27&hide_border=true)](https://github.com/MartinOber16)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinOber16&layout=compact&theme=tokyonight&bg_color=1a1b27&hide_border=true)](https://github.com/MartinOber16)
-
-</div>
-
----
-
 ## Proyecto destacado
 
 <h3>Crypto Market App 🪙</h3>
