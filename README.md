@@ -1,11 +1,15 @@
-<h1 align="center">Hola, soy Martín Obermeier <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
 
-<h3 align="center"><i>Ingeniero de Software • Full Stack Developer • React / Node</i></h3>
+# Hola, soy Martín Obermeier 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/martinobermeier87"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/martinober"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+### Ingeniero de Software · Full Stack Developer · React / Node
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinobermeier87)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MartinOber16)
+
+</div>
+
+---
 
 ## Sobre mí
 
@@ -13,58 +17,92 @@ Soy ingeniero de software graduado de la Universidad de Morón y vivo en Buenos 
 
 Me motiva resolver problemas reales, colaborar en equipos ágiles y construir soluciones escalables con buena experiencia de usuario.
 
-## Qué ofrezco
+---
 
-- Desarrollo de interfaces interactivas y accesibles con React.
-- APIs y servicios escalables con Node.js y Express.
-- Integración con bases de datos SQL y NoSQL.
-- Mejora de performance y experiencia de usuario.
-- Aprendizaje continuo y adopción de nuevas tecnologías.
+## Stack técnico
 
-## Frameworks y librerías
-
+**Frontend**
 <p>
-    <a href="#"><img alt="ReactJS" src="https://img.shields.io/badge/React%20JS-0078D6?logo=react&logoColor=white"></a>
-    <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node%20JS-%2311AB00.svg?logo=nodejs&logoColor=white"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="MaterialUI" src="https://img.shields.io/badge/Material%20UI-0078D6?logo=mui&logoColor=white"></a>
-    <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwindcss&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" alt="React"></a>
+  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square" alt="Next.js"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square" alt="Tailwind CSS"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat-square" alt="Redux"></a>
+  <a href="#"><img src="https://img.shields.io/badge/React_Query-FF4154?logo=reactquery&logoColor=white&style=flat-square" alt="React Query"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square" alt="Bootstrap"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white&style=flat-square" alt="Material UI"></a>
 </p>
 
-## Sistemas operativos
-
+**Backend**
 <p>
-    <a href="#"><img alt="Apple" src="https://img.shields.io/badge/Mac%20OS-000000?logo=apple&logoColor=white"></a>
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-557C94?logo=linux&logoColor=white"></a>
-    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node.js"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat-square" alt="Express"></a>
+  <a href="#"><img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square" alt="REST API"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Sockets-0078D6?style=flat-square" alt="Sockets"></a>
 </p>
 
-## Bases de datos
-
+**Bases de datos**
 <p>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%23327FC7.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-%23430098.svg?logo=oracle&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2311AB00.svg?logo=mongodb&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" alt="MongoDB"></a>
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" alt="MySQL"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=flat-square" alt="Oracle"></a>
 </p>
 
-## Software y herramientas
-
+**Herramientas**
 <p>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker"></a>
+  <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square" alt="VS Code"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square" alt="Postman"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square" alt="Linux"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat-square" alt="Windows"></a>
 </p>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MartinOber16&show_icons=true&theme=tokyonight&bg_color=1a1b27&hide_border=true)](https://github.com/MartinOber16)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinOber16&layout=compact&theme=tokyonight&bg_color=1a1b27&hide_border=true)](https://github.com/MartinOber16)
+
+</div>
+
+---
 
 ## Proyectos destacados
 
-<img align="center" alt="CryptoMarketApp" style="margin:5px" width="42px" src="https://mo-cryptos.netlify.app/static/media/logo.a34e2bbb945a0db8ac82.png" /> [**Crypto Market App**](https://mo-crypto-market-app.netlify.app/)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Crypto Market App</h3>
+      <p>Aplicación web en React para consultar precios de criptomonedas usando la API de CoinGecko. Incluye búsqueda, filtros y diseño responsive.</p>
+      <p><a href="https://mo-crypto-market-app.netlify.app/">🌐 Ver sitio</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Weather App</h3>
+      <p>Aplicación del clima desarrollada en TypeScript. Consulta condiciones meteorológicas en tiempo real con interfaz moderna.</p>
+      <p><a href="https://github.com/MartinOber16/opencode-weather-app">📂 Repositorio</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Next.js Jira Clone</h3>
+      <p>Aplicación Full Stack inspirada en Jira, desarrollada con Next.js, TypeScript y bases de datos para gestión de tareas.</p>
+      <p><a href="https://github.com/MartinOber16/next-open-jira">📂 Repositorio</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>React Query Issues</h3>
+      <p>Aplicación que integra React Query para gestión de datos asíncronos, consumiendo la API de GitHub para explorar issues.</p>
+      <p><a href="https://github.com/MartinOber16/react-query-issues">📂 Repositorio</a></p>
+    </td>
+  </tr>
+</table>
 
-<p style="margin:2px">Aplicación web en React para consultar precios de criptomonedas usando la API de CoinGecko. Incluye búsqueda, filtros y un diseño responsive.
-</p>
+---
 
 ## Contacto
 
-- LinkedIn: https://www.linkedin.com/in/martinobermeier87
-- GitHub: https://github.com/martinober
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinobermeier87)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MartinOber16)
